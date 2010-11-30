@@ -13,3 +13,6 @@
 [submodule "vimLatexGit"]
 	path = vimLatexGit
 	url = https://github.com/vim-latex/vim-latex.github.com.git
+[submodule "bundle/xQuery"]
+	path = bundle/xQuery
+	url = https://github.com/jeroenp/vim-xquery-syntax.git
