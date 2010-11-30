@@ -1,1 +1,1 @@
-/home/alex/.vim/vimLatexGit/vimfiles/Makefile
+../../vimLatex/Makefile
