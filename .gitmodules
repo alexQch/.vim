@@ -10,3 +10,6 @@
 [submodule "bundle/snippet"]
 	path = bundle/snippet
 	url = https://github.com/vim-scripts/snippet.vim.git
+[submodule "vimLatexGit"]
+	path = vimLatexGit
+	url = https://github.com/vim-latex/vim-latex.github.com.git
