@@ -34,3 +34,6 @@
 [submodule "bundle/repeat"]
 	path = bundle/repeat
 	url = https://github.com/vim-scripts/repeat.vim.git
+[submodule "bundle/sql"]
+	path = bundle/sql
+	url = https://github.com/MarcWeber/vim-addon-sql.git
