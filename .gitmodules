@@ -36,4 +36,4 @@
 	url = https://github.com/vim-scripts/repeat.vim.git
 [submodule "bundle/sql"]
 	path = bundle/sql
-	url = https://github.com/MarcWeber/vim-addon-sql.git
+	url = https://github.com/vim-scripts/sql.vim--Fishburn.git
