@@ -37,3 +37,6 @@
 [submodule "bundle/sql"]
 	path = bundle/sql
 	url = https://github.com/vim-scripts/sql.vim--Fishburn.git
+[submodule "bundle/outliner"]
+	path = bundle/outliner
+	url = git://github.com/sophacles/vim-outliner.git
