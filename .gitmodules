@@ -24,7 +24,7 @@
 	url = https://github.com/h13ronim/vim-comments.git
 [submodule "bundle/matchit"]
 	path = bundle/matchit
-	url = https://github.com/lcc/vim-matchit.git
+	url = https://github.com/freeformz/vim-matchit.git
 [submodule "bundle/snipmate"]
 	path = bundle/snipmate
 	url = https://github.com/msanders/snipmate.vim.git
