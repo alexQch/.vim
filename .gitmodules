@@ -40,3 +40,6 @@
 [submodule "bundle/outliner"]
 	path = bundle/outliner
 	url = git://github.com/sophacles/vim-outliner.git
+[submodule "bundle/matlab"]
+	path = bundle/matlab
+	url = git://github.com/vim-scripts/matlab.vim.git
