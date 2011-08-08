@@ -43,3 +43,6 @@
 [submodule "bundle/matlab"]
 	path = bundle/matlab
 	url = git://github.com/vim-scripts/matlab.vim.git
+[submodule "bundle/cAndC++"]
+	path = bundle/cAndC++
+	url = git://github.com/vim-scripts/c.vim.git
