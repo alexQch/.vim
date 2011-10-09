@@ -46,3 +46,6 @@
 [submodule "bundle/cAndC++"]
 	path = bundle/cAndC++
 	url = git://github.com/vim-scripts/c.vim.git
+[submodule "bundle/cvim"]
+	path = bundle/cvim
+	url = git://github.com/vim-scripts/c.vim.git
