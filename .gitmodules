@@ -49,3 +49,6 @@
 [submodule "bundle/cvim"]
 	path = bundle/cvim
 	url = git://github.com/vim-scripts/c.vim.git
+[submodule "bundle/govim"]
+	path = bundle/govim
+	url = git://github.com/anzaika/go.vim.git
