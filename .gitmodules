@@ -52,3 +52,6 @@
 [submodule "bundle/govim"]
 	path = bundle/govim
 	url = git://github.com/anzaika/go.vim.git
+[submodule "bundle/verilog"]
+	path = bundle/verilog
+	url = https://github.com/vim-scripts/bugfixes-to-vim-indent-for-verilog.git
