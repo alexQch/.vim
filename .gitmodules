@@ -55,3 +55,6 @@
 [submodule "bundle/verilog"]
 	path = bundle/verilog
 	url = https://github.com/vim-scripts/bugfixes-to-vim-indent-for-verilog.git
+[submodule "bundle/maude"]
+	path = bundle/maude
+	url = git://github.com/vim-scripts/maude.vim.git
