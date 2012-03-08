@@ -58,3 +58,6 @@
 [submodule "bundle/maude"]
 	path = bundle/maude
 	url = git://github.com/vim-scripts/maude.vim.git
+[submodule "bundle/bnf"]
+	path = bundle/bnf
+	url = git://github.com/vim-scripts/bnf.vim.git
